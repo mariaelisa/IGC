@@ -1,2 +1,0 @@
-# IGC
-repositorio de prueba 
